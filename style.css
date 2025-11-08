@@ -17,7 +17,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: white;
+    color: #ffeeba;
     padding: 20px;
     font-family: centurybold;
 }
@@ -35,7 +35,7 @@ header h1 img{
 }
 .nav-list a{
     text-decoration: none;
-    color: #ffeeba;
+    color: white;
     font-family: centurylight;
 }
 .menu{
